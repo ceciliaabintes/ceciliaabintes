@@ -1,4 +1,4 @@
-### Bem-vindo ao meu repositório no GitHub! 👋
+### Bem-vindo! 👋
 
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 Fique à vontade para explorar meus projetos e deixar seu feedback.
