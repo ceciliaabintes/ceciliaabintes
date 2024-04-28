@@ -11,7 +11,7 @@ Fique à vontade para explorar meus projetos e deixar seu feedback.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
 
-# Contatos:
+## Contatos:
 
 <div align = "center">
 <a href="https://www.instagram.com/ceciliaabintes_?igsh=MW5qY3MwcXZ3Nm5mbg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
