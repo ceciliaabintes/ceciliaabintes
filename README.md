@@ -5,7 +5,6 @@ Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Est
 Fique à vontade para explorar meus projetos e deixar feedback. Estou sempre aberto a novas ideias e melhorias. Juntos, podemos criar algo incrível!
 
 Divirta-se explorando e obrigado por visitar!
-
 ##Algumas tecnologias que estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
