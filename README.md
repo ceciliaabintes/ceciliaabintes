@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C3FF65&height=110&section=header"/>
 
-<h1>Bem-vindo! 👋</h1>
+###<h2>Bem-vindo! 👋</h2>
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
 ![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliaabintes&show_icons=true&theme=ocean_dark)
