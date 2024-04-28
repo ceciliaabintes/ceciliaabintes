@@ -11,6 +11,7 @@ Fique à vontade para explorar meus projetos e deixar seu feedback.
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
 </div>
+
 ## Contatos:
 
 <div align = "center">
