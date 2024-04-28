@@ -8,7 +8,7 @@ Divirta-se explorando e obrigado por visitar!
 
 ##Algumas tecnologias que estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 ## Minhas redes sociais:
 <div>
