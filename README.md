@@ -6,6 +6,10 @@ Fique à vontade para explorar meus projetos e deixar feedback. Estou sempre abe
 
 Divirta-se explorando e obrigado por visitar!
 
+##Algumas tecnologias que estou aprendendo:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 ## Minhas redes sociais:
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
