@@ -2,11 +2,11 @@
 
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
-Fique à vontade para explorar meus projetos e deixar feedback. Estou sempre aberto a novas ideias e melhorias. Juntos, podemos criar algo incrível!
+Fique à vontade para explorar meus projetos e deixar feedback. Estou sempre aberto a novas ideias e melhorias.
 
 Divirta-se explorando e obrigado por visitar!
 
-## Tecnologias que estou aprendendo no momento:
+## Tecnologias que estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
 
