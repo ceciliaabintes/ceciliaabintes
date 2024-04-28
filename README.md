@@ -1,5 +1,8 @@
 ### Bem-vindo! 👋
 <div class="topo">
+  .topo{
+  display:inline-block
+  }
   <div class="texto">
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
