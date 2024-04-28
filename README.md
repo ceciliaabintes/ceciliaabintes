@@ -2,7 +2,7 @@
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 <align="right">
 ![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliaabintes&show_icons=true&theme=shades-of-purple)
-<div>
+</align>
 Fique à vontade para explorar meus projetos e deixar seu feedback.
 
 ## Algumas tecnologias que estou aprendendo:
