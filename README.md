@@ -1,5 +1,5 @@
 ### Bem-vindo! 👋
-<div align="center">
+<div align="left">
   <div>
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
