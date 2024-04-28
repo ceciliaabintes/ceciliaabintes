@@ -6,7 +6,7 @@ Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Est
 Fique à vontade para explorar meus projetos e deixar seu feedback.
   </div>
   <div>
-  (https://github-readme-stats.vercel.app/apiceciliaabintes_=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="(https://github-readme-stats.vercel.app/apiceciliaanintes_=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
   </div>
 </div> 
 
