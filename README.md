@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
+
 ### Bem-vindo! 👋
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
