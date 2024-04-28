@@ -1,13 +1,10 @@
 ### Bem-vindo! 👋
 <div align="left">
-  <div>
 Me chamo Cecília, e estou empolgada em compartilhar meu trabalho com você. Este espaço é onde eu expresso minha paixão pela programação e compartilho projetos interessantes que tenho trabalhado.
 
 Fique à vontade para explorar meus projetos e deixar seu feedback.
-  </div>
-  <div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliaabintes_&show_icons=true&theme=radical)
-  </div>
 </div> 
 
 ## Algumas tecnologias que estou aprendendo:
