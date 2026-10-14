@@ -16,8 +16,8 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ceciliaabintes&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaabintes&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="190"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaabintes&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="200"/>
 </p>
 
 ---
