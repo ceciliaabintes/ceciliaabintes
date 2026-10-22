@@ -29,9 +29,7 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceciliaabintes&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaabintes&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="200"/>
+ ![GitHub Repo Card](https://githubcard.com/supabase/supabase.svg)
 </p>
 
 ---
@@ -45,7 +43,7 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
   <a href="https://instagram.com/SEU-PERFIL" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:ceciliaabintes_@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
