@@ -30,6 +30,7 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
 
 <p align="center">
 <img src="https://ghstats.dev/api/card?username=ceciliaabintes&theme=dracula&hide_border=true&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=ceciliaabintes&theme=dracula&hide_border=true&layout=grid" alt="Top Languages" />
 <img src="https://ghstats.dev/api/langs?username=ceciliaabintes&theme=dracula&hide_border=true&layout=vertical_list" alt="Top Languages" />
 </p>
 
