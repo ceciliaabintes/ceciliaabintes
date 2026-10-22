@@ -6,12 +6,24 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python, Java, C, C#, SQL
-[![My Skills](https://skillicons.dev/icons?i=python,java,azure,C,sql,flutter&perline=3)](https://skillicons.dev)
-* **Backend (frameworks) & Bancos de Dados:** FastAPI, Spring Boot, PostgreSQL, MongoDB, SQLite
-[![My Skills](https://skillicons.dev/icons?i=fastapi,springboot,postgreesql,mongodb,sqlite&perline=3)](https://skillicons.dev)
-* **Ferramentas de Desenvolvimento e Sistemas Operacionais:** Git, Docker, Linux
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux&perline=3)](https://skillicons.dev)
+- **Linguagens:** Python, Java, C, C#, SQL
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs,postgres" alt="Linguagens" />
+</a>
+
+- **Backend (frameworks) & Bancos de Dados:** FastAPI, Spring Boot, PostgreSQL, MongoDB, SQLite
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mongodb,sqlite" alt="Backend e BD" />
+</a>
+
+- **Ferramentas de Desenvolvimento e Sistemas Operacionais:** Git, Docker, Linux
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" alt="Ferramentas e OS" />
+</a>
+
 ---
 
 ### 📊 Estatísticas do GitHub
