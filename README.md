@@ -29,7 +29,7 @@ Estudante de **Sistemas de Informação** na **Universidade Federal do Ceará (U
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
- https://githubcard.com/supabase/supabase.svg?d=ceciliaabintes
+<img src="https://ghstats.dev/api/card?username=ceciliaabintes&theme=dracula&hide_border=true&size=compact" alt="GitHub Stats Card" />
 </p>
 
 ---
